@@ -2,14 +2,14 @@ WebGL Phsyics Work
 =======
 # Intro
 
-This code uses Physijs which is a wrapper for the ammo.js project which is a port of the Bullet physics library.
+This coe implements a framework that will allow you to get started with a multi-agent simulation.
 
 # Instructions
 
  1. Download the code. You can either clone/fork the repository or download the code as a zip file.
  2. Typically JavaScript is sent from a server and no JavaScript files are stored on your "local" computer.
 This makes it a little more challenging to run javaScript code, especially if other JavaScript files are accessed.
-Some web browser will deny access to files on your local machine (for good reason).executable
+Some web browser will deny access to files on your local machine (for good reason).
 There are two ways to get around this.
 You can install a webserver on your computer, this is not very difficult, installing something like WAMP or LAMP works well.
 If you don't want to install a webserver on your computer you will have to disable the security precautions of your web browser to allow the running of local scripts
@@ -21,9 +21,8 @@ If you don't want to install a webserver on your computer you will have to disab
  3. Select and open the file examples/vehicle.html file to start the example. 
 
 
-# For P0
+# For A4
 
-Look for the the string "CHANGE:" in example/vehicle.js for ideas on things to play around with.
-Otherwise change whatever you like.
+Implement the methods at the bottom of A4.js that will allow the flocking simulation to function properly.
 
 
