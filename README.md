@@ -2,7 +2,7 @@ WebGL Phsyics Work
 =======
 # Intro
 
-This coe implements a framework that will allow you to get started with a multi-agent simulation.
+This code implements a framework that will allow you to get started with a multi-agent simulation in WebGL.
 
 # Instructions
 
