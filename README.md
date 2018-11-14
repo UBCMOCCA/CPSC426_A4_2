@@ -19,6 +19,7 @@ If you don't want to install a webserver on your computer you will have to disab
    - [This guide is also good](https://github.com/mrdoob/three.js/wiki/How-to-run-things-locally)
    - [This one covers how to do this for Chrome](http://voxelent.com/local-chrome/)
  3. Select and open the file examples/vehicle.html file to start the example. 
+ 4. You result should look similar to [this video](https://youtu.be/Vetbp6-uYWg).
 
 
 # For A4
